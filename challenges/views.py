@@ -4,7 +4,7 @@ from django.urls import reverse
 
 # Create your views here.
 
-nthly_challenges = {
+monthly_challenges = {
     "january": "Eat no meat for the entire month!",
     "february": "Walk for at least 20 minutes every day!",
     "march": "Learn Django for at least 20 minutes every day!",
